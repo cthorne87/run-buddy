@@ -75,15 +75,14 @@ section{
     background-image: url("../images/hero-bg.jpg");   
     background-size: cover;
     background-position: center;
-   display: flex;
-   justify-content: center;
-   flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .hero-form {
     background-color: #fce138;
     padding:  20px;
-    width: 500px;
     color: #024e76;
     border: solid 3px #024e76;
     width: 40%;
@@ -125,7 +124,7 @@ section{
     font-size: 18px;
     line-height: 1.3;
 }
-.hero-cta {
+.hero-cta h2 {
     font-style: italic;
     font-size: 55px;
     color: #fce138;
